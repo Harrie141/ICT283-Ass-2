@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1622422625 source:c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\date.cpp
+	"Date.h"
+
+1622406414 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\date.h
+
+1622089356 source:c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\time.cpp
+	"Time.h"
+
+1622405824 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\time.h
+
+1622411754 source:c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\wdata.cpp
+	"WData.h"
+
+1622412413 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\wdata.h
+	<map>
+	"BST.h"
+	"Extractor.h"
+	"Date.h"
+	"Time.h"
+	"WSType.h"
+
+1622407478 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\bst.h
+	<stack>
+	<cstdlib>
+
+1622422584 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\extractor.h
+	<vector>
+
+1622408142 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\wstype.h
+	"Time.h"
+	"Date.h"
+
+1622421246 source:c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\assignment-2\33882375-assignment-2\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<vector>
+	"WSType.h"
+	"WData.h"
+	"Time.h"
+	"Date.h"
+
